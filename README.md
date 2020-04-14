@@ -14,4 +14,4 @@
 3. GRU
 4. GAN (we took up an additional model after an extension to the original deadline)
 
-> The code for this was developed on Google Colab Worksheets. This helped immensely in sharing the latest code and availability of hardawre capabilities like GPU and TPU.
+> The code for this was developed on Google Colab Worksheets. This helped immensely in sharing the latest code and availability of hardware capabilities like GPU and TPU.
